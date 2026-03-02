@@ -4,11 +4,11 @@
     | |/ |/ / / _ \/ _  / /_/ // /  
     |__/|__/_/_//_/\_,_/\____/___/
     
-    v1.6.64  |  2026-01-23  |  Roblox UI Library for scripts
+    v1.6.64  |  2026-01-23  |  Patched for VeloHub
     
     To view the source code, see the `src/` folder on the official GitHub repository.
     
-    Author: Footagesus (Footages, .ftgs, oftgs)
+    Original Author: Footagesus (Footages, .ftgs, oftgs)
     Github: https://github.com/Footagesus/WindUI
     Discord: https://discord.gg/ftgs-development-hub-1300692552005189632
     License: MIT
